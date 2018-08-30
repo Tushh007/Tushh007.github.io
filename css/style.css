@@ -194,11 +194,11 @@ flex-direction: column;
 .three{
   flex: 1;
 }
-
 @media only screen and (max-width: 420px){
-  .flex-container{
+  .flex-container {
 flex-direction: column;
   }
+}
 
 /*----------------footer---------------- */
 
